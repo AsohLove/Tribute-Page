@@ -1,28 +1,26 @@
-
 .header-title {
-    text-align: center;
-    background-color: rgb(236, 235, 232);
-    border: none;
+  text-align: center;
+  background-color: rgb(236, 235, 232);
+  border: none;
 }
 
 
 .img-display {
-    text-align: center;
-    background-color: white;
+  text-align: center;
+  background-color: white;
 }
 
 #timeline-heading {
-    text-align: center;
-    font: 20px;
+  text-align: center;
+  font: 20px;
 }
 
 .timeline {
-    background-color: rgb(236, 235, 232);
-    padding-left: 40rem;
-    padding-right: 40rem;
+  background-color: rgb(236, 235, 232);
+  padding-left: 40rem;
+  padding-right: 40rem;
 }
 
 footer {
-    font-weight: bold;
-    
+  font-weight: bold;
 }
