@@ -1,6 +1,6 @@
 .header-title {
   text-align: center;
-  background-color: rgb(236, 235, 232);
+  background-color: rgb(236 235 232);
   border: none;
 }
 
@@ -15,7 +15,7 @@
 }
 
 .timeline {
-  background-color: rgb(236, 235, 232);
+  background-color: rgb(236 235 232);
   padding-left: 40rem;
   padding-right: 40rem;
 }
