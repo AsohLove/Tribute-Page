@@ -15,6 +15,7 @@ body {
 .img-display {
   text-align: center;
   background-color: white;
+  margin: 15px 0 5px 0;
 }
 
 #timeline-heading {
@@ -31,4 +32,8 @@ body {
 footer {
   font-weight: bold;
   text-align: center;
+}
+
+ul li {
+  line-height: 1.6;
 }
