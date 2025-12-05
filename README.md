@@ -1,6 +1,6 @@
 # Tribute Page
 
-## Description
+## Overview
  A simple HTML web page paying tribute to the great **Dr Norman Borlaug** who used his agrology expertise to help feed billions of starving population all over the world.
 
  This web page includes a *tribute image* and *an unordered list* documenting the timeline of Dr Norman like the sample screenshot below.
@@ -29,7 +29,18 @@
                     <li><strong>1942</strong>- Receives a Ph.D. in Genetics and Plant Pathology</li><br>
 ```
 
+## Preview
 ![Dr Nirman tribute page](assets/images/Sample.png)
+
+## Project Technical
+    Built with
+    - HTML
+    - CSS
+## Installation
+A local copy of this project can be obtain at [this repository](git@github.com:AsohLove/Tribute-Page.git), navigate to the web page and open on a browser.
+
+**Deployment link**
+https://asohlove.github.io/Tribute-Page/
 
 ## Author
 
