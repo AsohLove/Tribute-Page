@@ -40,7 +40,7 @@ Built with;
 A local copy of this project can be obtain at [this repository](git@github.com:AsohLove/Tribute-Page.git), navigate to the web page and open on a browser.
 
 **Deployment link**
-https://asohlove.github.io/Tribute-Page/
+You can also have access to the [Deployed page](https://asohlove.github.io/Tribute-Page/)
 
 ## Author
 
