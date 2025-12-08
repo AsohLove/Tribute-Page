@@ -36,6 +36,7 @@
 Built with;
 > HTML
 > CSS
+> Vs Code IDE
 ## Installation
 A local copy of this project can be obtain at [this repository](git@github.com:AsohLove/Tribute-Page.git), navigate to the web page and open on a browser.
 
